@@ -1,5 +1,5 @@
 #
-# A solution to Task #1 for a job application for the company "FNTASTIC".
+# A solution to Task #1
 #
 # Author:   alsergkir
 # Language: Python v3.10.2
